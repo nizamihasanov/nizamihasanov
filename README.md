@@ -1,12 +1,8 @@
 # 👋 Hi, I'm Nizami Hasanov
-<a href="https://linkedin.com/in/nizamihasanov"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cyber Security Engineering Student | Blue Team & Defensive Security Focus
 
-## Objective
-
-Driven by my curiosity about how things work, I've developed a passion for cybersecurity, and I am now eager to get started in the field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
-
+<a href="https://linkedin.com/in/nizamihasanov"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 ---
 
 ## 🧠 About Me

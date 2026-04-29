@@ -3,6 +3,7 @@
 Cyber Security Engineering Student | Blue Team & Defensive Security Focus
 
 <a href="https://linkedin.com/in/nizamihasanov"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+![](https://komarev.com/ghpvc/?username=nizamihasanov&style=for-the-badge)
 ---
 
 ## 🧠 About Me
